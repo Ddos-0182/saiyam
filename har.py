@@ -10,8 +10,8 @@ from telegram.ext import ConversationHandler, MessageHandler, filters
 
 
 # Replace with your bot's token and group ID
-BOT_TOKEN = "7687115306:AAFY35QiNSA5T5LegyFGEpKmFRVJHZYp9yI"
-GROUP_ID = -1002478444333  # Replace with your group's numeric ID
+BOT_TOKEN = "7847084261:AAG3ibYHX7iNcH2oCpTFLSBYCYtWFliu8aU"
+GROUP_ID = -1002464594926  # Replace with your group's numeric ID
 
 # Ngrok URLs
 ngrok_urls = [
