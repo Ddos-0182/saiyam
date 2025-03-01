@@ -25,8 +25,8 @@ blocked_ports = [8700, 20000, 443, 17500, 9031, 20002, 20001]
 
 max_attack_duration = 300  # Maximum attack duration in seconds
 cooldown_period = 300  # Cooldown period in seconds
-packet_size = 8  # Define packet size
-thread = 900  # Define thread count
+packet_size = 18  # Define packet size
+thread = 950  # Define thread count
 
 ADMINS: Set[int] = set()
 SUPER_ADMIN_ID = 7083378335  # Replace with the actual super admin user ID
