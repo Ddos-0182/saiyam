@@ -10,8 +10,8 @@ from telegram.ext import ConversationHandler, MessageHandler, filters
 
 
 # Replace with your bot's token and group ID
-BOT_TOKEN = "7847084261:AAG3ibYHX7iNcH2oCpTFLSBYCYtWFliu8aU"
-GROUP_ID = -1002464594926  # Replace with your group's numeric ID
+BOT_TOKEN = "7420677434:AAE-n0u9rdYKO6gFPYl5ZPnIYxF73zvjBGI"
+GROUP_ID = -1002356316459  # Replace with your group's numeric ID
 
 # Ngrok URLs
 ngrok_urls = [
@@ -66,8 +66,8 @@ async def attack(update: Update, context: CallbackContext):
         await context.bot.send_message(
             chat_id=user_id,
             text="I am built such that I can only process requests in the specified group.\n"
-                 "2. 🎁🎀JOIN CHANNEL :- \n"
-                 "3.🩵💗GROUP LINK :- \n"
+                 "2. 🎁🎀JOIN CHANNEL :- https://t.me/+HEyXXgA_1hU4NmZl\n"
+                 "3.🩵💗GROUP LINK :- @JAATMODZTALKS \n"
                  "4. MAKE SURE TO JOIN BOT CHANNEL AND GROUP\n"
         )
         return
